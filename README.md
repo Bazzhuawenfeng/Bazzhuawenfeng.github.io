@@ -1,35 +1,36 @@
-# 👋 欢迎来到Huawen Feng的 GitHub 主页
+## 🧑‍🎓 About Me
+🎓 I’m a third-year Ph.D. student in School of Computer Science and Engineering at **South China University of Technology (SCUT)**, advised by Prof. Qianli Ma. Previously, I obtained my bachelor's degree from this institute with the qualification for postgraduate recommendation and later applied for a direct Ph.D. program in my first year of graduate studies.
 
-## 🧑‍🎓 关于我  
-🎓 我是 [你的名字]，目前在 [你的机构] 担任 [你的职位]。  
-🔬 我的研究方向包括 **[研究方向1]**、**[研究方向2]** 和 **[研究方向3]**。  
-📄 [Google Scholar](https://scholar.google.com/citations?user=你的ID) | [ORCID](https://orcid.org/你的ID) | [个人主页](https://你的主页.com)  
+🔬 My research focuses on  **LLM Alignment**, **Post Training** and **Preference Optimization**.
+
+📄 [Google Scholar](https://scholar.google.com/citations?user=WsTNqM8AAAAJ) | [ORCID](https://orcid.org/0000-0002-9704-1479)
 
 ---
 
-## 📚 研究与项目  
+## 📚 Research Internship
 🔹 **[项目1名称](GitHub项目链接)** - 简要描述研究/代码的内容  
 🔹 **[项目2名称](GitHub项目链接)** - 简要描述研究/代码的内容  
 🔹 **[开源工具/数据集](GitHub项目链接)** - 简要描述
 
 ---
 
-## 📝 最新论文  
-📌 **[论文标题](论文链接)**  
-✍️ **作者:** 你，合作者  
-📅 **发表时间:** YYYY-MM-DD  
-🏛️ **期刊/会议:** 会议名称/期刊名称  
-📜 **摘要:** (简要介绍论文内容)
+## 📝 Publications
+📌 **[WarriorCoder: Learning from Expert Battles to Augment Code Large Language Models](https://arxiv.org/abs/2412.17395)**<br>
+✍️ **Huawen Feng**, Pu Zhao, Qingfeng Sun, Can Xu, Fangkai Yang, Lu Wang, Qianli Ma, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang<br>
+🏛️ **Preprint** 
 
-📌 **[更多论文列表](https://scholar.google.com/citations?user=你的ID)**
+📌 **[Training Large Language Models for Retrieval-Augmented Question Answering through Backtracking Correction](https://openreview.net/forum?id=IOg47mg74i)**<br>
+✍️ **Huawen Feng**, Zekun Yao, Junhao Zheng, Qianli Ma<br>
+🏛️ **2025 ICLR** 
+
+📌 **[Improving Factual Consistency of News Summarization by Contrastive Preference Optimization](https://aclanthology.org/2024.findings-emnlp.648/)**<br> 
+✍️ **Huawen Feng**, Yan Fan, Xiong Liu, Ting-En Lin, Zekun Yao, Yuchuan Wu, Fei Huang, Yongbin Li, Qianli Ma<br>
+🏛️ **2024 EMNLP (Findings)** 
+
+📌 **[More Papers](https://scholar.google.com/citations?user=WsTNqM8AAAAJ)**
 
 ---
 
-## 📬 联系方式  
-✉️ 电子邮件: [你的Email]  
-🐦 Twitter: [你的Twitter]  
-🔗 个人网站: [你的个人网站]
+## 📬 Contact Information  
+✉️ Email: [541119578@qq.com]
 
----
-
-💡 **欢迎交流合作！如果你对我的研究感兴趣，欢迎 Star 🌟 我的项目或联系我。**

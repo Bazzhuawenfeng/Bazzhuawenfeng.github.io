@@ -8,14 +8,14 @@
 ---
 
 ## 📚 Research Internship
-### **Microsoft AI**<br> 
-##### July 2024 - Now  |  Research Intern
+### **Microsoft AI**
+**July 2024 - Now  |  Research Intern**
 The research focuses on the methods for data flywheels for code LLMs. Current methods typically rely on off-the-shelf datasets and data augmentation from proprietary LLMs. We propose WarriorCoder, a novel paradigm where the target model learns from expert battles to address these limitations.
 
 
 
-### **通义实验室**<br>
-##### July 2023 - July 2024  |  Research Intern
+### **通义实验室**
+**July 2023 - July 2024  |  Research Intern**
 The research focuses on hallucinations in LLMs and methods for resolving the problem. We propose Contrastive Preference Optimization (CPO) — a method to improve the model’s faithfulness to the context during the generation process without the need for pairwise annotations. Furthermore, we explore the model's "selective" faithfulness to the context and propose Backtracking Correction (BC) — a reinforcement learning framework that does not require additional data annotations.
 
 ---

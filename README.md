@@ -27,6 +27,22 @@
 ✍️ **Huawen Feng**, Yan Fan, Xiong Liu, Ting-En Lin, Zekun Yao, Yuchuan Wu, Fei Huang, Yongbin Li, Qianli Ma<br>
 🏛️ **2024 EMNLP (Findings)** 
 
+📌 **[Well Begun Is Half Done: An Implicitly Augmented Generative Framework with Distribution Modification for Hierarchical Text Classification](https://aclanthology.org/2024.lrec-main.1515/)**<br> 
+✍️ **Huawen Feng**, Jingsong Yan, Junlong Liu, Junhao Zheng, Qianli Ma<br>
+🏛️ **2024 COLING** 
+
+📌 **[Perturbation-Based Self-Supervised Attention for Attention Bias in Text Classification](https://ieeexplore.ieee.org/document/10209221/)**<br> 
+✍️ **Huawen Feng**, Zhenxi Lin, Qianli Ma<br>
+🏛️ **IEEE/ACM Transactions on Audio, Speech, and Language Processing** 
+
+📌 **[Joint Constrained Learning with Boundary-adjusting for Emotion-Cause Pair Extraction](https://aclanthology.org/2023.acl-long.62/)**<br> 
+✍️ **Huawen Feng**, Junlong Liu, Junhao Zheng, Haibin Chen, Xichen Shang, Qianli Ma<br>
+🏛️ **2023 ACL** 
+
+📌 **[It's Better to Teach Fishing than Giving a Fish: An Auto-Augmented Structure-aware Generative Model for Metaphor Detection](https://aclanthology.org/2023.acl-long.62/)**<br> 
+✍️ **Huawen Feng**, Qianli Ma<br>
+🏛️ **2022 EMNLP (Findings)** 
+
 📌 **[More Papers](https://scholar.google.com/citations?user=WsTNqM8AAAAJ)**
 
 ---

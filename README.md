@@ -23,7 +23,7 @@ The research focuses on hallucinations in LLMs and methods for resolving the pro
 ## 📝 Publications
 📌 **[WarriorCoder: Learning from Expert Battles to Augment Code Large Language Models](https://arxiv.org/abs/2412.17395)**<br>
 ✍️ **Huawen Feng**, Pu Zhao, Qingfeng Sun, Can Xu, Fangkai Yang, Lu Wang, Qianli Ma, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang<br>
-🏛️ **Preprint** 
+🏛️ **2025 ACL** 
 
 📌 **[Training Large Language Models for Retrieval-Augmented Question Answering through Backtracking Correction](https://openreview.net/forum?id=IOg47mg74i)**<br>
 ✍️ **Huawen Feng**, Zekun Yao, Junhao Zheng, Qianli Ma<br>

@@ -27,6 +27,10 @@ The research focuses on hallucinations in LLMs and methods for resolving the pro
 ---
 
 ## 📝 Publications
+📌 **[Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought](https://arxiv.org/pdf/2505.15431)**<br>
+✍️ **Tencent Hunyuan Team**<br>
+🏛️ **Technical Report** 
+
 📌 **[WarriorCoder: Learning from Expert Battles to Augment Code Large Language Models](https://arxiv.org/abs/2412.17395)**<br>
 ✍️ **Huawen Feng**, Pu Zhao, Qingfeng Sun, Can Xu, Fangkai Yang, Lu Wang, Qianli Ma, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang<br>
 🏛️ **2025 ACL** 

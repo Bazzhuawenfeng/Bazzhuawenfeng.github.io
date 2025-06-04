@@ -8,8 +8,8 @@
 ---
 
 ## 📚 Research Internship
-### **腾讯混元大模型（机器学习研究组）**
-**April 2025 - Now  |  青云计划**<br>
+### **Tencent Hunyuan X**
+**April 2025 - Now  |  Qingyun Intern**<br>
 The research focuses on the reinforcement learning for reasoning ablilities of math LLMs.
 
 
@@ -20,7 +20,7 @@ The research focuses on the methods for data flywheels for code LLMs. Current me
 
 
 
-### **Alibaba通义实验室（原达摩院）**
+### **Alibaba Tongyi Lab**
 **July 2023 - July 2024  |  Research Intern**<br>
 The research focuses on hallucinations in LLMs and methods for resolving the problem. We propose Contrastive Preference Optimization (CPO) — a method to improve the model’s faithfulness to the context during the generation process without the need for pairwise annotations. Furthermore, we explore the model's "selective" faithfulness to the context and propose Backtracking Correction (BC) — a reinforcement learning framework that does not require additional data annotations.
 

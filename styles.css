@@ -308,7 +308,14 @@ h1 {
   display: flex;
   flex-wrap: wrap;
   gap: 8px 18px;
+}
+
+.pub-meta .venue {
   color: var(--gold);
+}
+
+.pub-meta .topic {
+  color: var(--blue);
 }
 
 .publication h3 {

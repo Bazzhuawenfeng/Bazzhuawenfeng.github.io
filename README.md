@@ -1,68 +1,27 @@
-## 🧑‍🎓 About Me
-🎓 I’m a third-year Ph.D. student in School of Computer Science and Engineering at **South China University of Technology (SCUT)**, advised by Prof. Qianli Ma. Previously, I obtained my bachelor's degree from this institute with the qualification for postgraduate recommendation and later applied for a direct Ph.D. program in my first year of graduate studies.
+# Huawen Feng
 
-🔬 My research focuses on  **LLM Alignment**, **Post Training** and **Preference Optimization**.
+This repository hosts my academic homepage: <https://bazzhuawenfeng.github.io/>.
 
-📄 [Google Scholar](https://scholar.google.com/citations?user=WsTNqM8AAAAJ) | [ORCID](https://orcid.org/0000-0002-9704-1479)
+I am a Ph.D. student at the School of Computer Science and Engineering, South
+China University of Technology, advised by Prof. Qianli Ma. I am joining Tencent
+Hunyuan to work on GUI agents, especially human and automated trajectory data
+construction pipelines, supervised fine-tuning, and game-play reinforcement
+learning.
 
----
+## Links
 
-## 📚 Research Internship
-### **Tencent Hunyuan X**
-**April 2025 - Now  |  Qingyun Intern**<br>
-The research focuses on the reinforcement learning for reasoning ablilities of math LLMs.
+- Google Scholar: <https://scholar.google.com/citations?user=WsTNqM8AAAAJ&hl=en>
+- ORCID: <https://orcid.org/0000-0002-9704-1479>
+- GitHub: <https://github.com/Bazzhuawenfeng>
+- Email: <541119578@qq.com>
 
+## Selected Publications
 
-
-### **Microsoft AI**
-**July 2024 - April 2025  |  Research Intern**<br>
-The research focuses on the methods for data flywheels for code LLMs. Current methods typically rely on off-the-shelf datasets and data augmentation from proprietary LLMs. We propose WarriorCoder, a novel paradigm where the target model learns from expert battles to address these limitations.
-
-
-
-### **Alibaba Tongyi Lab**
-**July 2023 - July 2024  |  Research Intern**<br>
-The research focuses on hallucinations in LLMs and methods for resolving the problem. We propose Contrastive Preference Optimization (CPO) — a method to improve the model’s faithfulness to the context during the generation process without the need for pairwise annotations. Furthermore, we explore the model's "selective" faithfulness to the context and propose Backtracking Correction (BC) — a reinforcement learning framework that does not require additional data annotations.
-
----
-
-## 📝 Publications
-📌 **[Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought](https://arxiv.org/pdf/2505.15431)**<br>
-✍️ **Tencent Hunyuan Team**<br>
-🏛️ **Technical Report** 
-
-📌 **[WarriorCoder: Learning from Expert Battles to Augment Code Large Language Models](https://arxiv.org/abs/2412.17395)**<br>
-✍️ **Huawen Feng**, Pu Zhao, Qingfeng Sun, Can Xu, Fangkai Yang, Lu Wang, Qianli Ma, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang<br>
-🏛️ **2025 ACL** 
-
-📌 **[Training Large Language Models for Retrieval-Augmented Question Answering through Backtracking Correction](https://openreview.net/forum?id=IOg47mg74i)**<br>
-✍️ **Huawen Feng**, Zekun Yao, Junhao Zheng, Qianli Ma<br>
-🏛️ **2025 ICLR** 
-
-📌 **[Improving Factual Consistency of News Summarization by Contrastive Preference Optimization](https://aclanthology.org/2024.findings-emnlp.648/)**<br> 
-✍️ **Huawen Feng**, Yan Fan, Xiong Liu, Ting-En Lin, Zekun Yao, Yuchuan Wu, Fei Huang, Yongbin Li, Qianli Ma<br>
-🏛️ **2024 EMNLP (Findings)** 
-
-📌 **[Well Begun Is Half Done: An Implicitly Augmented Generative Framework with Distribution Modification for Hierarchical Text Classification](https://aclanthology.org/2024.lrec-main.1515/)**<br> 
-✍️ **Huawen Feng**, Jingsong Yan, Junlong Liu, Junhao Zheng, Qianli Ma<br>
-🏛️ **2024 COLING** 
-
-📌 **[Perturbation-Based Self-Supervised Attention for Attention Bias in Text Classification](https://ieeexplore.ieee.org/document/10209221/)**<br> 
-✍️ **Huawen Feng**, Zhenxi Lin, Qianli Ma<br>
-🏛️ **IEEE/ACM Transactions on Audio, Speech, and Language Processing** 
-
-📌 **[Joint Constrained Learning with Boundary-adjusting for Emotion-Cause Pair Extraction](https://aclanthology.org/2023.acl-long.62/)**<br> 
-✍️ **Huawen Feng**, Junlong Liu, Junhao Zheng, Haibin Chen, Xichen Shang, Qianli Ma<br>
-🏛️ **2023 ACL** 
-
-📌 **[It's Better to Teach Fishing than Giving a Fish: An Auto-Augmented Structure-aware Generative Model for Metaphor Detection](https://aclanthology.org/2023.acl-long.62/)**<br> 
-✍️ **Huawen Feng**, Qianli Ma<br>
-🏛️ **2022 EMNLP (Findings)** 
-
-📌 **[More Papers](https://scholar.google.com/citations?user=WsTNqM8AAAAJ)**
-
----
-
-## 📬 Contact Information  
-✉️ Email: [541119578@qq.com]
-
+- AgentMath: Empowering Mathematical Reasoning for Large Language Models via Tool-Augmented Agent, arXiv 2025.
+- Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought, Technical Report 2025.
+- WarriorCoder: Learning from Expert Battles to Augment Code Large Language Models, ACL 2025.
+- Training Large Language Models for Retrieval-Augmented Question Answering through Backtracking Correction, ICLR 2025.
+- Improving Factual Consistency of News Summarization by Contrastive Preference Optimization, Findings of EMNLP 2024.
+- Well Begun Is Half Done: An Implicitly Augmented Generative Framework with Distribution Modification for Hierarchical Text Classification, LREC-COLING 2024.
+- Joint Constrained Learning with Boundary-Adjusting for Emotion-Cause Pair Extraction, ACL 2023.
+- It's Better to Teach Fishing than Giving a Fish: An Auto-Augmented Structure-aware Generative Model for Metaphor Detection, Findings of EMNLP 2022.

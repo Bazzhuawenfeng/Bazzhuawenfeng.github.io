@@ -307,15 +307,25 @@ h1 {
 .pub-meta {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px 18px;
+  gap: 8px;
 }
 
-.pub-meta .venue {
-  color: var(--gold);
+.publication .pub-meta span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 28px;
+  padding: 3px 9px;
+  border-radius: 6px;
 }
 
-.pub-meta .topic {
-  color: var(--blue);
+.publication .pub-meta span.venue {
+  color: #9a6b00;
+  background: #fff3cf;
+}
+
+.publication .pub-meta span.topic {
+  color: #245d93;
+  background: #e9f2ff;
 }
 
 .publication h3 {

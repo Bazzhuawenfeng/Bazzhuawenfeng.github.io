@@ -93,7 +93,7 @@
           </article>
           <article class="focus-item">
             <span class="focus-index">03</span>
-            <h3>Game-play Reinforcement Learning</h3>
+            <h3>Game-play RL</h3>
             <p>
               Building Nexus-based game-play sandboxes and reinforcement learning
               loops where CUA agents interact with environments, receive task
@@ -139,8 +139,9 @@
               <span>Microsoft AI, Research Intern</span>
             </h3>
             <p>
-              Data flywheels for code LLMs. This work led to WarriorCoder, where a
-              target model learns from expert battles to augment code generation.
+              Early-stage training and evaluation for WizardLM-2, followed by leading
+              WarriorCoder, a data-flywheel project where a target model learns
+              from expert battles to augment code generation.
             </p>
           </article>
           <article class="timeline-item">
@@ -291,19 +292,19 @@
 
           <article class="publication">
             <div class="pub-meta">
-              <span class="venue">arXiv 2024</span>
-              <span class="topic">Multimodal continual tuning</span>
+              <span class="venue">ACL 2023</span>
+              <span class="topic">Commonsense QA</span>
             </div>
             <h3>
-              <a href="https://arxiv.org/abs/2401.09181">Beyond Anti-Forgetting: Multimodal Continual Instruction Tuning with Positive Forward Transfer</a>
+              <a href="https://aclanthology.org/2023.acl-long.509/">Preserving Commonsense Knowledge from Pre-trained Language Models via Causal Inference</a>
             </h3>
-            <p>J. Zheng, Q. Ma, Z. Liu, B. Wu, <strong>H. Feng</strong></p>
+            <p>J. Zheng, Q. Ma, S. Qiu, Y. Wu, P. Ma, J. Liu, <strong>H. Feng</strong>, X. Shang, H. Chen</p>
             <p class="pub-abstract">
-              This work studies multimodal continual instruction tuning beyond
-              simply preventing catastrophic forgetting. Fwd-Prompt projects
-              prompt gradients to reduce interference and reuse pretrained
-              knowledge, encouraging positive forward transfer while updating only
-              a small number of parameters.
+              This work revisits fine-tuning PLMs for commonsense QA from a causal
+              inference perspective, showing that vanilla fine-tuning can overfit
+              target data and lose useful causal effects from pre-training. It
+              introduces a unified objective that learns task-specific knowledge
+              while preserving transferable commonsense knowledge from PLMs.
             </p>
           </article>
 

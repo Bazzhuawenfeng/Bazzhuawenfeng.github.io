@@ -24,5 +24,6 @@ game-play reinforcement learning sandboxes.
 - Training Large Language Models for Retrieval-Augmented Question Answering through Backtracking Correction, ICLR 2025.
 - Improving Factual Consistency of News Summarization by Contrastive Preference Optimization, EMNLP 2024.
 - Well Begun Is Half Done: An Implicitly Augmented Generative Framework with Distribution Modification for Hierarchical Text Classification, LREC-COLING 2024.
+- Preserving Commonsense Knowledge from Pre-trained Language Models via Causal Inference, ACL 2023.
 - Joint Constrained Learning with Boundary-Adjusting for Emotion-Cause Pair Extraction, ACL 2023.
 - It's Better to Teach Fishing than Giving a Fish: An Auto-Augmented Structure-aware Generative Model for Metaphor Detection, EMNLP 2022.

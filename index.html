@@ -6,7 +6,7 @@
     <title>Huawen Feng | CUA Agents, LLM Post-training, Reinforcement Learning</title>
     <meta
       name="description"
-      content="Huawen Feng is a Ph.D. student at SCUT and a researcher at Tencent Hunyuan, working on CUA agents, trajectory data pipelines, SFT, and reinforcement learning."
+      content="Huawen Feng is a senior researcher at Tencent Hunyuan, working on CUA agents, trajectory data pipelines, SFT, and reinforcement learning."
     >
     <link rel="canonical" href="https://bazzhuawenfeng.github.io/">
     <link rel="icon" href="https://github.com/Bazzhuawenfeng.png">
@@ -26,14 +26,15 @@
     <main>
       <section class="hero" aria-labelledby="intro-title">
         <div class="hero-copy">
-          <p class="eyebrow">Researcher at Tencent Hunyuan</p>
+          <p class="eyebrow">Senior Researcher at Tencent Hunyuan</p>
           <h1 id="intro-title">Building CUA agents that learn from trajectories, tools, and environments.</h1>
           <p class="lead">
-            I am a Ph.D. student at the School of Computer Science and Engineering,
-            South China University of Technology, advised by Prof. Qianli Ma. I am
-            working at Tencent Hunyuan on CUA agents, with a focus on human and
-            automated trajectory construction, supervised fine-tuning, and
-            reinforcement learning for game-play agents.
+            I am a senior researcher at Tencent Hunyuan. I received my Ph.D. from
+            the School of Computer Science and Engineering, South China University
+            of Technology, advised by Prof. Qianli Ma. My current work focuses on
+            CUA agents, including human and automated trajectory construction,
+            supervised fine-tuning, and reinforcement learning for game-play
+            agents.
           </p>
           <div class="link-row" aria-label="Profile links">
             <a href="https://scholar.google.com/citations?user=WsTNqM8AAAAJ&hl=en">Google Scholar</a>
@@ -53,11 +54,11 @@
           <div class="profile-lines">
             <div>
               <span>Current base</span>
-              <strong>SCUT, Guangzhou</strong>
+              <strong>Shenzhen, Guangdong</strong>
             </div>
             <div>
               <span>Current role</span>
-              <strong>Tencent Hunyuan</strong>
+              <strong>Senior Researcher</strong>
             </div>
             <div>
               <span>Core themes</span>
@@ -110,7 +111,10 @@
         <div class="timeline">
           <article class="timeline-item highlight">
             <div class="time">Jan 2026 - Present</div>
-            <h3>Tencent Hunyuan, Researcher</h3>
+            <h3 class="org-title">
+              <img class="org-icon" src="assets/icons/hunyuan.png" alt="" aria-hidden="true">
+              <span>Tencent Hunyuan, Senior Researcher</span>
+            </h3>
             <p>
               CUA agent research, including human and automatic trajectory data
               construction pipelines, supervised fine-tuning, and game-play
@@ -119,7 +123,10 @@
           </article>
           <article class="timeline-item">
             <div class="time">Apr 2025 - Dec 2025</div>
-            <h3>Tencent Hunyuan X, Qingyun Intern</h3>
+            <h3 class="org-title">
+              <img class="org-icon" src="assets/icons/hunyuan.png" alt="" aria-hidden="true">
+              <span>Tencent Hunyuan X, Qingyun Intern</span>
+            </h3>
             <p>
               Reinforcement learning and post-training for large reasoning models,
               including math reasoning and Hunyuan model reports.
@@ -127,7 +134,10 @@
           </article>
           <article class="timeline-item">
             <div class="time">Jul 2024 - Apr 2025</div>
-            <h3>Microsoft AI, Research Intern</h3>
+            <h3 class="org-title">
+              <img class="org-icon" src="assets/icons/microsoft.svg" alt="" aria-hidden="true">
+              <span>Microsoft AI, Research Intern</span>
+            </h3>
             <p>
               Data flywheels for code LLMs. This work led to WarriorCoder, where a
               target model learns from expert battles to augment code generation.
@@ -135,11 +145,27 @@
           </article>
           <article class="timeline-item">
             <div class="time">Jul 2023 - Jul 2024</div>
-            <h3>Alibaba Tongyi Lab, Research Intern</h3>
+            <h3 class="org-title">
+              <img class="org-icon" src="assets/icons/qwen.png" alt="" aria-hidden="true">
+              <span>Alibaba Tongyi Lab, Research Intern</span>
+            </h3>
             <p>
               Factuality, preference optimization, and correction methods for LLMs,
               including contrastive preference optimization and backtracking
               correction.
+            </p>
+          </article>
+          <article class="timeline-item">
+            <div class="time">Apr 2023 - Jul 2023</div>
+            <h3 class="org-title">
+              <img class="org-icon wide" src="assets/icons/tencent.png" alt="" aria-hidden="true">
+              <span>Tencent AI Platform Department, Algorithm Intern</span>
+            </h3>
+            <p>
+              Worked on an intelligent COVID-19 epidemiological investigation data
+              collection project, covering algorithms such as NER, object
+              detection, OCR, and address recommendation, substantially improving
+              the efficiency of contact-tracing information collection.
             </p>
           </article>
         </div>
@@ -158,12 +184,19 @@
           <article class="publication">
             <div class="pub-meta">
               <span class="venue">ICLR 2026</span>
-              <span class="topic">Agent reasoning</span>
+              <span class="topic">Agentic reasoning</span>
             </div>
             <h3>
               <a href="https://arxiv.org/abs/2512.20745">AgentMath: Empowering Mathematical Reasoning for Large Language Models via Tool-Augmented Agent</a>
             </h3>
             <p>H. Luo, <strong>H. Feng</strong>, Q. Sun, C. Xu, K. Zheng, Y. Wang, T. Yang, H. Hu, Y. Tang</p>
+            <p class="pub-abstract">
+              AgentMath integrates language-model reasoning with code interpreters,
+              converting natural-language chain-of-thought into structured
+              tool-augmented trajectories for SFT. It also trains an agentic RL
+              loop that interleaves generation and code execution, helping models
+              learn stronger tool-use and self-correction strategies for math.
+            </p>
           </article>
 
           <article class="publication">
@@ -175,6 +208,13 @@
               <a href="https://arxiv.org/abs/2505.15431">Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought</a>
             </h3>
             <p><strong>Tencent Hunyuan Team</strong></p>
+            <p class="pub-abstract">
+              Hunyuan-TurboS is a large hybrid Transformer-Mamba MoE model built
+              for efficient long-context reasoning and deployment. The report
+              combines adaptive long/short chain-of-thought, multi-round
+              deliberation, and large-scale RL to balance strong capability with
+              lower inference cost.
+            </p>
           </article>
 
           <article class="publication">
@@ -186,6 +226,13 @@
               <a href="https://arxiv.org/abs/2412.17395">WarriorCoder: Learning from Expert Battles to Augment Code Large Language Models</a>
             </h3>
             <p><strong>H. Feng</strong>, P. Zhao, Q. Sun, C. Xu, F. Yang, L. Wang, Q. Ma, Q. Lin, S. Rajmohan, D. Zhang, Q. Zhang</p>
+            <p class="pub-abstract">
+              WarriorCoder builds a data flywheel for code LLMs from expert-model
+              battles rather than static datasets or proprietary-only augmentation.
+              An arena lets strong code models challenge one another and be judged
+              impartially, producing diverse training data for stronger code
+              generation.
+            </p>
           </article>
 
           <article class="publication">
@@ -197,6 +244,13 @@
               <a href="https://openreview.net/forum?id=IOg47mg74i">Training Large Language Models for Retrieval-Augmented Question Answering through Backtracking Correction</a>
             </h3>
             <p><strong>H. Feng</strong>, J. Zheng, Q. Ma</p>
+            <p class="pub-abstract">
+              Backtracking Correction trains RAG QA models to recognize when a
+              generation drifts from retrieved evidence and revise the answer
+              instead of continuing an unfaithful path. The method turns
+              correction behavior into trainable trajectories for more faithful
+              retrieval-grounded answering.
+            </p>
           </article>
 
           <article class="publication">
@@ -208,6 +262,13 @@
               <a href="https://aclanthology.org/2024.findings-emnlp.648/">Improving Factual Consistency of News Summarization by Contrastive Preference Optimization</a>
             </h3>
             <p><strong>H. Feng</strong>, Y. Fan, X. Liu, T.-E. Lin, Z. Yao, Y. Wu, F. Huang, Y. Li, Q. Ma</p>
+            <p class="pub-abstract">
+              CPO targets the more subtle hallucinations that modern LLMs make in
+              news summarization, such as invented causal links or overgeneralized
+              details. It separates faithful and fake generation tendencies with
+              contrastive preference training, improving factual consistency and
+              hallucination awareness.
+            </p>
           </article>
 
           <article class="publication">
@@ -219,6 +280,13 @@
               <a href="https://aclanthology.org/2024.lrec-main.1515/">Well Begun Is Half Done: An Implicitly Augmented Generative Framework with Distribution Modification for Hierarchical Text Classification</a>
             </h3>
             <p><strong>H. Feng</strong>, J. Yan, J. Liu, J. Zheng, Q. Ma</p>
+            <p class="pub-abstract">
+              IMAGE addresses hierarchical text classification when label
+              distributions are highly imbalanced and generative decoding is
+              vulnerable to early errors. It implicitly augments sample
+              distributions and transfers label-space knowledge to tail classes,
+              making predictions less biased and more robust.
+            </p>
           </article>
 
           <article class="publication">
@@ -230,6 +298,13 @@
               <a href="https://arxiv.org/abs/2401.09181">Beyond Anti-Forgetting: Multimodal Continual Instruction Tuning with Positive Forward Transfer</a>
             </h3>
             <p>J. Zheng, Q. Ma, Z. Liu, B. Wu, <strong>H. Feng</strong></p>
+            <p class="pub-abstract">
+              This work studies multimodal continual instruction tuning beyond
+              simply preventing catastrophic forgetting. Fwd-Prompt projects
+              prompt gradients to reduce interference and reuse pretrained
+              knowledge, encouraging positive forward transfer while updating only
+              a small number of parameters.
+            </p>
           </article>
 
           <article class="publication">
@@ -241,6 +316,13 @@
               <a href="https://ieeexplore.ieee.org/document/10209221/">Perturbation-Based Self-Supervised Attention for Attention Bias in Text Classification</a>
             </h3>
             <p><strong>H. Feng</strong>, Z. Lin, Q. Ma</p>
+            <p class="pub-abstract">
+              This paper studies attention bias in text classification, where
+              learned attention weights can become weak explanations or focus on
+              misleading tokens. It uses perturbation-based self-supervision to
+              guide attention toward decision-relevant evidence, improving
+              robustness and interpretability.
+            </p>
           </article>
 
           <article class="publication">
@@ -252,6 +334,13 @@
               <a href="https://aclanthology.org/2023.acl-long.62/">Joint Constrained Learning with Boundary-Adjusting for Emotion-Cause Pair Extraction</a>
             </h3>
             <p><strong>H. Feng</strong>, J. Liu, J. Zheng, H. Chen, X. Shang, Q. Ma</p>
+            <p class="pub-abstract">
+              JCB addresses emotion-cause pair extraction under severe imbalance
+              among emotion clauses, cause clauses, and paired relations. It
+              injects prior constraints into learning and adjusts classifier
+              decision boundaries so subtasks cooperate instead of being optimized
+              independently.
+            </p>
           </article>
 
           <article class="publication">
@@ -263,6 +352,12 @@
               <a href="https://aclanthology.org/2022.findings-emnlp.46/">It's Better to Teach Fishing than Giving a Fish: An Auto-Augmented Structure-aware Generative Model for Metaphor Detection</a>
             </h3>
             <p><strong>H. Feng</strong>, Q. Ma</p>
+            <p class="pub-abstract">
+              AAAS reframes metaphor detection as a generative keyword-extraction
+              task with sentence-structure awareness. It adds an auto-augmentation
+              strategy that expands limited data without external resources,
+              improving contextual modeling for metaphorical word detection.
+            </p>
           </article>
         </div>
       </section>

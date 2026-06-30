@@ -276,6 +276,29 @@ h1 {
   font-size: 1.15rem;
 }
 
+.org-title {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.org-title span {
+  min-width: 0;
+}
+
+.org-icon {
+  flex: 0 0 auto;
+  width: 34px;
+  height: 34px;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
+.org-icon.wide {
+  width: 84px;
+  border-radius: 5px;
+}
+
 .timeline-item p {
   margin-top: 8px;
   color: var(--muted);
@@ -346,6 +369,16 @@ h1 {
   margin-top: 8px;
   color: var(--muted);
   font-size: 0.96rem;
+}
+
+.publication .pub-abstract {
+  max-width: 980px;
+  margin-top: 12px;
+  padding-left: 12px;
+  color: #3e514b;
+  border-left: 3px solid rgba(0, 122, 120, 0.28);
+  font-size: 0.94rem;
+  line-height: 1.58;
 }
 
 .footer {

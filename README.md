@@ -2,11 +2,12 @@
 
 This repository hosts my academic homepage: <https://bazzhuawenfeng.github.io/>.
 
-I am a Ph.D. student at the School of Computer Science and Engineering, South
-China University of Technology, advised by Prof. Qianli Ma. I work at Tencent
-Hunyuan on CUA agents, especially human and automated trajectory data
-construction pipelines, data-mixture and loss-mask aware supervised fine-tuning,
-and Nexus-based game-play reinforcement learning sandboxes.
+I am a senior researcher at Tencent Hunyuan, based in Shenzhen, Guangdong. I
+received my Ph.D. from the School of Computer Science and Engineering, South
+China University of Technology, advised by Prof. Qianli Ma. I work on CUA agents,
+especially human and automated trajectory data construction pipelines,
+data-mixture and loss-mask aware supervised fine-tuning, and Nexus-based
+game-play reinforcement learning sandboxes.
 
 ## Links
 
